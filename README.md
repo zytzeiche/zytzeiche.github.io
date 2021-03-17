@@ -15,3 +15,7 @@ index 2
 - [See this page on github.io](https://zytzeiche.github.io)
 - [more md](./more.md)
 
+## testing area
+
+- [Bars in Washington](./testing/bars.geojson), example from [https://docs.github.com/en/github/managing-files-in-a-repository/mapping-geojson-files-on-github](https://docs.github.com/en/github/managing-files-in-a-repository/mapping-geojson-files-on-github)
+
