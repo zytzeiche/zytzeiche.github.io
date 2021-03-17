@@ -10,7 +10,7 @@ index 2
 
 ## other pages
 
-[more md](./more.md)
-
-[Howto make github.io pages](github-io-pages/README.md)
+- [Howto make github.io pages](github-io-pages/README.md)
+- [See this page on github](https://github.com/zytzeiche/zytzeiche.github.io)
+- [more md](./more.md)
 
