@@ -12,5 +12,6 @@ index 2
 
 - [Howto make github.io pages](github-io-pages/README.md)
 - [See this page on github](https://github.com/zytzeiche/zytzeiche.github.io)
+- [See this page on github.io](https://zytzeiche.github.io)
 - [more md](./more.md)
 

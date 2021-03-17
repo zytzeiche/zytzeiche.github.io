@@ -4,3 +4,7 @@ relative_links:
   enabled: true
   collections: true
 theme: jekyll-theme-tactile
+nav_pages:
+  - more.md
+footer_pages:
+  - footer.md
