@@ -1,3 +1,3 @@
 index 2
 
-[README.md](./README.html)
+[README.md](./README.md)
