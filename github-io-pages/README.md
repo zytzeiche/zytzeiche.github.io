@@ -1,8 +1,10 @@
 # create github.io pages
 
-Edit your `README.md` file. When using links, use markdown syntax `[text](file.md)`.
+Edit your `README.md` file. 
 
-Create a `_config.yml` file:
+- When using links, use markdown syntax `[text](file.md)`.
+
+Create a [`_config.yml`](https://github.com/zytzeiche/zytzeiche.github.io/blob/main/_config.yml) file:
 
 ~~~yaml
 plugins:
