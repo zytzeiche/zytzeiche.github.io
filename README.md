@@ -12,4 +12,5 @@ index 2
 
 [more md](./more.md)
 
-[more html](./more.html)
+[Howto make github.io pages](github-io-pages/README.md)
+
