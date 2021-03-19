@@ -1,6 +1,6 @@
 # zytzeiche.github.io
 
-index 2
+index x
 
 [README.md](./README.md)
 
