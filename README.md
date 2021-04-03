@@ -15,7 +15,7 @@ index x
 
 - [Bars in Washington](./testing/bars.geojson), example from [https://docs.github.com/en/github/managing-files-in-a-repository/mapping-geojson-files-on-github](https://docs.github.com/en/github/managing-files-in-a-repository/mapping-geojson-files-on-github)
 
-<script src="https://embed.github.com/view/geojson/zytzeiche/zytzeiche.github.io/main/testing/bars.geojson"></script>
+<script src="https://embed.github.com/view/geojson/zytzeiche/zytzeiche.github.io/main/testing/gdr.geojson"></script>
 
 ## see also
 
