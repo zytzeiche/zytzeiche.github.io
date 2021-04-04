@@ -70,6 +70,6 @@ git commit -m "got layout file 'default.html' from https://pages-themes.github.i
 default.html
 
 ~~~html
-This site hosted on <a href="https://github.com/{{ site.github.repository_nwo }}">GitHub.com</a> 
+This site hosted on {% raw %}<a href="https://github.com/{{ site.github.repository_nwo }}">GitHub.com</a>{% endraw %} 
 ~~~
 
