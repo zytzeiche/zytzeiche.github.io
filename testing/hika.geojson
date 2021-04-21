@@ -13,19 +13,6 @@
         "name": "Kappelenring 24a",
         "address": "Gemeinde Wohlen"
       }
-    },
-
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [ , ]
-      },
-      "properties": {
-        "maker-symbol": "home",
-        "name": "",
-        "address": ""
-      }
     }
   ]
 }
